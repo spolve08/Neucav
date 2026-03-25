@@ -19,7 +19,7 @@ Neucav is a comprehensive deep learning tool designed to automatically generate 
 - **Flexible Output**: Supports both NIfTI and DICOM output formats
   
 ## GUI
-![Gray Matter](assets/Gray Matter Impairment.png)
+![Gray Matter](assets/gray_matter_impairment.png)
 ## Processing Pipeline
 
 The tool executes the following automated pipeline:
