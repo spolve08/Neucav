@@ -20,6 +20,8 @@ Neucav is a comprehensive deep learning tool designed to automatically generate 
   
 ## GUI
 ![Gray Matter](assets/gray_matter_impairment.png)
+
+![White Matter](assets/white_matter_impairment.png)
 ## Processing Pipeline
 
 The tool executes the following automated pipeline:
