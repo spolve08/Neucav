@@ -19,6 +19,7 @@ Neucav is a comprehensive deep learning tool designed to automatically generate 
 - **Flexible Output**: Supports both NIfTI and DICOM output formats
   
 ## GUI
+Our visualizer displaying the gray matter importance radar plot (bottom-right), the surgical cavity (white mask overlayed to the T1w), and the Semantic network (yellow/red mask overlayed to the T1w).
 ![Gray Matter](assets/gray_matter_impairment.png)
 
 ![White Matter](assets/white_matter_impairment.png)
