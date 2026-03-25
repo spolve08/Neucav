@@ -17,7 +17,9 @@ Neucav is a comprehensive deep learning tool designed to automatically generate 
 - **ROI Analysis**: Calculates overlap with white matter and gray matter regions of interest
 - **Visualization**: Generates radar plots for anatomical importance analysis
 - **Flexible Output**: Supports both NIfTI and DICOM output formats
-
+  
+## GUI
+![Gray Matter](assets/Gray Matter Impairment.png)
 ## Processing Pipeline
 
 The tool executes the following automated pipeline:
